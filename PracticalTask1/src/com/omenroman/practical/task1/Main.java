@@ -1,5 +1,9 @@
 package com.omenroman.practical.task1;
 
+import com.omenroman.practical.task1.util.Point3D;
+import com.omenroman.practical.task1.util.Vector3D;
+import com.omenroman.practical.task1.util.Vectors;
+
 import java.util.Random;
 import java.util.Scanner;
 

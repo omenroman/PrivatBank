@@ -1,4 +1,4 @@
-package com.omenroman.practical.task1;
+package com.omenroman.practical.task1.util;
 
 /**
  * Created by админ on 21.04.2017.
